@@ -4,6 +4,8 @@
 
 I am a passionate second-year student actively seeking internship opportunities, driven by a profound love for software development and a keen enthusiasm for problem-solving across various programming languages. Eager to apply my skills and contribute to innovative projects, I am dedicated to continuous learning and growth in the dynamic field of technology.
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/51194584/258857674-a1827d5b-af82-45b7-947e-3382f2431c75.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wasy2023&label=Profile%20views&color=0e75b6&style=flat" alt="wasy2023" /> </p>
+
 Skills: C/C++/Java/Python/Spring Boot/SQL/C#/.NET/MATLAB/Maple
 
 - 🔭 I’m currently working on C# with .NET social media app 
